@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloPrinter.iml" filepath="$PROJECT_DIR$/HelloPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroductionNew.iml" filepath="$PROJECT_DIR$/IntroductionNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXExercises/JavaFXExercises.iml" filepath="$PROJECT_DIR$/JavaFXExercises/JavaFXExercises.iml" />
     </modules>
   </component>
 </project>
