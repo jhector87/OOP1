@@ -43,6 +43,38 @@ public class Main {
         System.out.println(i * i); // Overflow
         i = 456;
         System.out.println(i * 100);
+        d = 4.56;
+        System.out.println(d * 100);
+
+        // DO NOT USE
+        i = 2;
+        int j;
+        j = i++; // i->3, j <- 2
+        i = 2;
+        j = ++i; // i->3, j<-3
+
+        //Compare
+        int x = 3;
+        System.out.println(d / 0); // Infinity
+        d = 0.0;
+        System.out.println(d / 0); //NaN
+        d = Double.POSITIVE_INFINITY;
+        System.out.println(123.5 / d); // 0.0
+
+        // Assignment
+        /*
+        * byte -> short -> int -> long -> float -> double
+        * */
+        b = 10;
+        s = b; // byte CAN be assigned to short
+        // b = s; // short CANNOT be assigned to byte
+        lg = i;
+        d = f;
+        // f= b; // wrong
+        f = 1.23F;
+
+
+
 
     }
 }
