@@ -6,7 +6,8 @@ public class TimeInterval {
     private int time1, time2;
 
     public TimeInterval(int time1, int time2) {
-        int hours = time1 / 100; int min = time1 % 100;
+        int hours = time1 / 100;
+        int min = time1 % 100;
         this.time1 = hours * 60 + min;
 
         hours = time2 / 100; min = time2 % 100;
