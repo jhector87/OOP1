@@ -1,6 +1,4 @@
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.Random;
 
 public class Main3 {
@@ -14,7 +12,7 @@ public class Main3 {
         values = getDistinctValues(ARRAY_LENGTH, MAX_VALUE);
         System.out.println(Arrays.toString(values));
 
-        values = getDistinctValues(ARRAY_LENGTH, MAX_VALUE);
+        values = getDistinctValues2(ARRAY_LENGTH, MAX_VALUE);
         System.out.println(Arrays.toString(values));
     }
 
@@ -37,13 +35,17 @@ public class Main3 {
 
     private static int[] getDistinctValues2(int arrayLength, int maxValue) {
         int[] companionArray = new int[maxValue];
-        for (int i = 0; i < maxValue; i++) {
+        for (int i = 0; i < maxValue; i++)
             companionArray[i] = i + 1;
-        }
-        int[] array = new int[arrayLength];
-        for(int i = 0; i < maxValue; i++) {
 
+        int[] array = new int[arrayLength];
+        for (int i = 0; i < maxValue; i++) {
+            int val = rd.nextInt(maxValue);
+            array[i] = companionArray[val];
+            companionArray[val] = companionArray[maxValue - 1];
+            maxValue--;
         }
+        return companionArray;
     }
 
 }
