@@ -18,7 +18,7 @@ public class Card {
 
     public String toString() {
         String output;
-        switch (value) {
+        switch (this.value) {
             case 1:
                 output = "Ace";
                 break;

@@ -10,7 +10,7 @@ public class CardPicker {
         int numCards;
         Scanner in = new Scanner(System.in);
         do {
-            out.print("Enter cards per suit");
+            out.print("Enter cards per suit: ");
             numCards = in.nextInt();
         } while (numCards <= 0 || numCards > CardDeck.CARDS_PER_SUITS);
 
@@ -19,13 +19,15 @@ public class CardPicker {
 
         cards.fill();
         int pickCount = 0;
-        while (!hasCardsFromEachSuit(numCards)) {
+        while (!result.hasCardsFromEachSuit(numCards)) {
             Card card = cards.take();
             pickCount++;
-            if (!hasCardsFromSuit((numCards), card.getSuit())) {
+            if (!result.hasCardsFromSuit(numCards, card.getSuit())) {
                 result.add(card);
             }
-
+            cards.add(card);
         }
+        out.println(("Number picks: " + pickCount));
+        out.println("Cards picked: \n" + result);
     }
 }
