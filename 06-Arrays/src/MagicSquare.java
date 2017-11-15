@@ -80,7 +80,9 @@ public class MagicSquare {
 
     public static void main(String[] args) {
         MagicSquare magicSquare = new MagicSquare(5);
-        magicSquare.create();
+        for (int[] magic : magicSquare.create()) {
+            System.out.println(Arrays.toString(magic));
+        }
         magicSquare.isMagic();
 
     }

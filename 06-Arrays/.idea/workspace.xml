@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e568ae34-1dca-4a15-a3e3-26082b0f5850" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BulgarianSolitaire.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MagicSquare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PermutationClassX11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PascalTriangle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../02-ObjectAndClasses/src" afterPath="$PROJECT_DIR$/../02-ObjectAndClasses/src" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/06-Arrays/Main3.class" afterPath="$PROJECT_DIR$/out/production/06-Arrays/Main3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/06-Arrays/MagicSquare.class" afterPath="$PROJECT_DIR$/out/production/06-Arrays/MagicSquare.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06-Arrays.iml" afterPath="$PROJECT_DIR$/06-Arrays.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main3.java" afterPath="$PROJECT_DIR$/src/Main3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MagicSquare.java" afterPath="$PROJECT_DIR$/src/MagicSquare.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,21 +65,31 @@
       <file leaf-file-name="MagicSquare.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MagicSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="652">
+              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermutationClassX11.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermutationClassX11.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PermutationClassX11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            <state relative-caret-position="330">
+              <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PascalTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,15 +122,15 @@
         <option value="$PROJECT_DIR$/src/Main3.java" />
         <option value="$PROJECT_DIR$/src/Main3Test.java" />
         <option value="$PROJECT_DIR$/src/BulgarianSolitaire.java" />
-        <option value="$PROJECT_DIR$/src/MagicSquare.java" />
         <option value="$PROJECT_DIR$/src/PermutationClassX11.java" />
+        <option value="$PROJECT_DIR$/src/MagicSquare.java" />
+        <option value="$PROJECT_DIR$/src/PascalTriangle.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="32" />
-    <option name="width" value="1903" />
-    <option name="height" value="1129" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -196,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PermutationClassX11">
+  <component name="RunManager" selected="Application.PascalTriangle">
     <configuration name="BulgarianSolitaire (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="BulgarianSolitaire" />
@@ -239,12 +245,12 @@
       <module name="06-Arrays" />
       <envs />
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main2" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="PascalTriangle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -362,18 +368,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BulgarianSolitaire (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MagicSquare" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PermutationClassX11" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BulgarianSolitaire (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MagicSquare" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PermutationClassX11" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PascalTriangle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PermutationClassX11" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PascalTriangle" />
         <item index="1" class="java.lang.String" itemvalue="Application.MagicSquare" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BulgarianSolitaire (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PermutationClassX11" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BulgarianSolitaire (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +416,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39177752" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39177752" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -663,19 +669,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MagicSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        <state relative-caret-position="652">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PermutationClassX11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        <state relative-caret-position="330">
+          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PascalTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
