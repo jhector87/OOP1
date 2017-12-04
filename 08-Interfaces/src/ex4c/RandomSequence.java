@@ -1,5 +1,5 @@
 /**
- * @author jonathanhector on ${TODAY.YEAR}
+ * @author jonathanhector on 2017
  * Copyrighted (c) Hector Graphics. All rights reserved.
  * Project: RandomSequence
  */

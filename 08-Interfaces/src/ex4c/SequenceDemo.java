@@ -8,12 +8,6 @@ package ex4c;
 
 import java.util.Arrays;
 
-/**
- * @author jonathanhector on 2017
- * Copyrighted (c) Hector Graphics. All rights reserved.
- * Project: SequenceDemo on 04.12.17
- */
-
 public class SequenceDemo {
     public static void main(String[] args) {
         LastDigitDistribution ldd0 = new LastDigitDistribution();

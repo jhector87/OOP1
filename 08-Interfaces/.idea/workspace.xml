@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea6fff4-cecf-4134-9d04-39d1130db3dd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/jonathanhector.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="fea6fff4-cecf-4134-9d04-39d1130db3dd" name="Default" comment="&quot;Lambda and interfaces.&quot;">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08-Interfaces.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/08-Interfaces/ex1/DataSet.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/08-Interfaces/ex1/DataSetDemo.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/08-Interfaces/ex1/Shape.class" />
@@ -43,64 +37,9 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/08-Interfaces/ex3eLambdaExpression/DataSet.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/08-Interfaces/ex3eLambdaExpression/DataSetDemo.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/08-Interfaces/ex3eLambdaExpression/Measurer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex1/DataSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex1/DataSetDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex1/Shape.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex1/Table.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex2/CircularTable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex2/RectangularTable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex2/Table.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex2/TableReaLister.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3a/BalanceMeasurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3a/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3a/DataSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3a/DataSetDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3a/InterestRateMeasurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3a/Measurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3b/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3b/DataSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3b/DataSetDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3b/Measurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3c/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3c/DataSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3c/DataSetDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3c/Measurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3d/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3d/DataSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3d/DataSetDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3d/Measurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3eLambdaExpression/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3eLambdaExpression/DataSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3eLambdaExpression/DataSetDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3eLambdaExpression/Measurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3f/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3f/DataSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3f/DataSetDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex3f/Measurer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4a/LastDigitDistribution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4a/MockSequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4a/RandomSequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4a/Sequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4a/SequenceDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4a/SquareSequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4b/LastDigitDistribution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4b/Sequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4b/SequenceDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4c/LastDigitDistribution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4c/MockSequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4c/RandomSequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4c/Sequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4c/SequenceDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex4c/SquareSequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JUnit4/Bank/.idea/Bank.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JUnit4/Bank/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JUnit4/Bank/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JUnit4/Bank/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JUnit4/Bank/Bank.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JUnit4/Bank/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../JUnit4/Bank/BankUnitTester.java" />
       <change beforePath="$PROJECT_DIR$/../02-ObjectAndClasses/src" afterPath="$PROJECT_DIR$/../02-ObjectAndClasses/src" />
-      <change beforePath="$PROJECT_DIR$/../07-Classes&amp;Objects/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../07-Classes&amp;Objects/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/ex4c/RandomSequence.java" afterPath="$PROJECT_DIR$/src/ex4c/RandomSequence.java" />
+      <change beforePath="$PROJECT_DIR$/src/ex4c/SequenceDemo.java" afterPath="$PROJECT_DIR$/src/ex4c/SequenceDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,7 +56,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,9 +86,11 @@
       <file leaf-file-name="SequenceDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex4c/SequenceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -234,6 +177,8 @@
         <option value="$PROJECT_DIR$/src/ex4b/LastDigitDistribution.java" />
         <option value="$PROJECT_DIR$/src/ex4b/SequenceDemo.java" />
         <option value="$PROJECT_DIR$/src/ex4c/MockSequence.java" />
+        <option value="$PROJECT_DIR$/src/ex4c/RandomSequence.java" />
+        <option value="$PROJECT_DIR$/src/ex4c/SequenceDemo.java" />
       </list>
     </option>
   </component>
@@ -556,6 +501,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511266903647</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Lambda and interfaces.&quot;">
+      <created>1512398335403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512398335403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -564,7 +517,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -592,6 +545,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lambda and interfaces" />
+    <MESSAGE value="&quot;Lambda and interfaces.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Lambda and interfaces.&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -623,6 +581,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,6 +631,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -679,6 +639,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -686,6 +647,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -693,6 +655,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -703,6 +666,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -711,6 +677,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -718,6 +687,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,6 +695,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -732,6 +703,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -739,6 +711,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,6 +719,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -873,14 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4c/SequenceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex4c/MockSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -897,11 +863,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4c/SequenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex4c/RandomSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
